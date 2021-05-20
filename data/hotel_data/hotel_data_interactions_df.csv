@@ -15607,7 +15607,7 @@
 15605,1659,110,OffSeason,[2-3],Nonref,[160-260],[5-inf],True
 15606,1677,190,LowSeason,[2-3],Standard,[260-360],[5-inf],True
 15607,1701,13,LowSeason,[4-7],Standard,[160-260],[3-4],True
-15608,1725,40,OffSeason,[2-3],Standard,[160-260],[5-inf],True
+15608,1725,110,OffSeason,[2-3],Nonref,[160-260],[5-inf],True
 15609,1754,110,OffSeason,[2-3],Nonref,[160-260],[5-inf],True
 15610,1758,300,HighSeason,[2-3],Nonref,[160-260],[5-inf],False
 15611,1800,319,HighSeason,[2-3],Nonref,[160-260],[5-inf],True
@@ -15662,10 +15662,10 @@
 15660,2875,13,LowSeason,[4-7],Standard,[160-260],[3-4],True
 15661,2890,328,LowSeason,[2-3],Nonref,[260-360],[5-inf],True
 15662,2921,319,HighSeason,[2-3],Nonref,[160-260],[5-inf],True
-15663,2930,166,HighSeason,[2-3],Standard,[160-260],[2-2],False
+15663,2930,220,HighSeason,[2-3],Nonref,[160-260],[2-2],False
 15664,3109,355,LowSeason,[0-1],Nonref,[0-160],[2-2],False
 15665,3188,6,OffSeason,[2-3],Standard,[260-360],[5-inf],True
-15666,3236,404,HighSeason,[0-1],Standard,[160-260],[5-inf],True
+15666,3236,386,HighSeason,[0-1],Nonref,[160-260],[5-inf],True
 15667,3241,188,LowSeason,[2-3],Nonref,[160-260],[2-2],True
 15668,3251,376,HighSeason,[0-1],Nonref,[160-260],[3-4],True
 15669,3257,28,OffSeason,[2-3],Standard,[160-260],[3-4],True
@@ -15675,7 +15675,7 @@
 15673,3556,204,LowSeason,[2-3],Standard,[160-260],[2-2],True
 15674,3584,187,LowSeason,[4-7],Nonref,[160-260],[3-4],True
 15675,3588,394,HighSeason,[0-1],Nonref,[160-260],[5-inf],False
-15676,3613,12,LowSeason,[2-3],Standard,[160-260],[5-inf],True
+15676,3613,303,LowSeason,[2-3],Nonref,[160-260],[5-inf],True
 15677,3635,303,LowSeason,[2-3],Nonref,[160-260],[5-inf],True
 15678,2106,118,OffSeason,[2-3],Nonref,[260-360],[5-inf],True
 15679,3641,9,HighSeason,[2-3],Standard,[160-260],[3-4],True
@@ -15703,7 +15703,7 @@
 15701,4366,6,OffSeason,[2-3],Standard,[260-360],[5-inf],True
 15702,4400,110,OffSeason,[2-3],Nonref,[160-260],[5-inf],True
 15703,4436,210,OffSeason,[0-1],Standard,[160-260],[5-inf],False
-15704,4444,30,OffSeason,[2-3],Standard,[260-360],[3-4],True
+15704,4444,133,OffSeason,[2-3],Nonref,[260-360],[3-4],True
 15705,4363,464,NewYear,[2-3],Standard,[160-260],[5-inf],True
 15706,4461,110,OffSeason,[2-3],Nonref,[160-260],[5-inf],True
 15707,4500,110,OffSeason,[2-3],Nonref,[160-260],[5-inf],True
@@ -15726,7 +15726,7 @@
 15724,4938,439,OffSeason,[0-1],Nonref,[260-360],[5-inf],False
 15725,4948,110,OffSeason,[2-3],Nonref,[160-260],[5-inf],True
 15726,4967,27,OffSeason,[2-3],Standard,[0-160],[2-2],True
-15727,4974,38,OffSeason,[0-1],Standard,[160-260],[3-4],True
+15727,4974,321,OffSeason,[0-1],Nonref,[160-260],[3-4],True
 15728,3413,99,OffSeason,[2-3],Nonref,[160-260],[3-4],True
 15729,4994,6,OffSeason,[2-3],Standard,[260-360],[5-inf],True
 15730,5016,277,OffSeason,[4-7],Nonref,[160-260],[5-inf],True
@@ -15735,7 +15735,7 @@
 15733,5059,110,OffSeason,[2-3],Nonref,[160-260],[5-inf],True
 15734,5060,476,NewYear,[4-7],Nonref,[160-260],[5-inf],True
 15735,5063,170,WinterVacation,[2-3],Nonref,[160-260],[5-inf],True
-15736,5084,28,OffSeason,[2-3],Standard,[160-260],[3-4],True
+15736,5084,99,OffSeason,[2-3],Nonref,[160-260],[3-4],True
 15737,5105,118,OffSeason,[2-3],Nonref,[260-360],[5-inf],True
 15738,5116,40,OffSeason,[2-3],Standard,[160-260],[5-inf],True
 15739,5132,318,OffSeason,[4-7],Nonref,[260-360],[2-2],True
@@ -15755,7 +15755,7 @@
 15753,5295,170,WinterVacation,[2-3],Nonref,[160-260],[5-inf],True
 15754,5333,118,OffSeason,[2-3],Nonref,[260-360],[5-inf],True
 15755,5346,20,OffSeason,[2-3],Standard,[160-260],[1-1],True
-15756,5382,102,OffSeason,[0-1],Standard,[160-260],[2-2],True
+15756,5382,466,OffSeason,[0-1],Nonref,[160-260],[2-2],True
 15757,5389,161,OffSeason,[0-1],Nonref,[160-260],[5-inf],True
 15758,5395,12,LowSeason,[2-3],Standard,[160-260],[5-inf],True
 15759,5409,99,OffSeason,[2-3],Nonref,[160-260],[3-4],True
@@ -15770,7 +15770,7 @@
 15768,5586,170,WinterVacation,[2-3],Nonref,[160-260],[5-inf],True
 15769,5631,77,WinterVacation,[2-3],Standard,[260-360],[3-4],True
 15770,5671,64,WinterVacation,[2-3],Standard,[160-260],[5-inf],True
-15771,5675,718,NewYear,[0-1],Standard,[260-360],[5-inf],False
+15771,5675,703,NewYear,[0-1],Nonref,[260-360],[5-inf],False
 15772,5691,109,OffSeason,[4-7],Nonref,[160-260],[2-2],True
 15773,5747,118,OffSeason,[2-3],Nonref,[260-360],[5-inf],True
 15774,5769,99,OffSeason,[2-3],Nonref,[160-260],[3-4],True
@@ -15785,18 +15785,18 @@
 15783,5788,57,WinterVacation,[2-3],Standard,[160-260],[2-2],True
 15784,5869,42,OffSeason,[2-3],Standard,[260-360],[2-2],True
 15785,5922,118,OffSeason,[2-3],Nonref,[260-360],[5-inf],True
-15786,5935,85,WinterVacation,[0-1],Standard,[160-260],[5-inf],True
+15786,5935,582,WinterVacation,[0-1],Nonref,[160-260],[5-inf],True
 15787,5937,29,OffSeason,[4-7],Standard,[160-260],[2-2],True
 15788,5940,6,OffSeason,[2-3],Standard,[260-360],[5-inf],True
 15789,5974,87,WinterVacation,[0-1],Standard,[160-260],[3-4],True
 15790,6026,110,OffSeason,[2-3],Nonref,[160-260],[5-inf],True
 15791,6046,1,WinterVacation,[2-3],Standard,[160-260],[3-4],True
-15792,6065,85,WinterVacation,[0-1],Standard,[160-260],[5-inf],True
+15792,6065,582,WinterVacation,[0-1],Nonref,[160-260],[5-inf],True
 15793,6087,122,OffSeason,[4-7],Nonref,[160-260],[3-4],True
 15794,6096,581,WinterVacation,[2-3],Nonref,[160-260],[5-inf],False
 15795,6103,224,OffSeason,[0-1],Standard,[260-360],[5-inf],False
 15796,6109,23,MayLongWeekend,[4-7],Standard,[160-260],[3-4],True
-15797,6118,40,OffSeason,[2-3],Standard,[160-260],[5-inf],True
+15797,6118,110,OffSeason,[2-3],Nonref,[160-260],[5-inf],True
 15798,6127,70,WinterVacation,[2-3],Standard,[160-260],[5-inf],False
 15799,6130,87,WinterVacation,[0-1],Standard,[160-260],[3-4],True
 15800,6147,588,WinterVacation,[4-7],Nonref,[160-260],[5-inf],False
