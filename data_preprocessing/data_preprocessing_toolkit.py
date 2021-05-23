@@ -84,7 +84,11 @@ class DataPreprocessingToolkit(object):
         return df
 
     def filter_out_long_stays(self, df):
-        df = df.loc[df["length_of_stay"] <= 21]
+        df = df.loc[df["length_of_stay"] <= 14]
+        return df
+
+    def filter_empty_accomodation_price(self, df):
+        df = df.loc[df["accomodation_price"] >= 1.0]
         return df
 
     def leave_one_from_group_reservations(self, df):
@@ -132,6 +136,11 @@ class DataPreprocessingToolkit(object):
     def map_date_to_term_datasets(self, df):
         df.loc[:, "date_from"] = df["date_from"].astype(str).apply(lambda x: x[:10])
         df.loc[:, 'term'] = df['date_from'].apply(lambda x: self.map_date_to_term(x))
+        return df
+
+    def map_date_to_season_datasets(self, df):
+        df.loc[:, "date_from"] = df["date_from"].astype(str).apply(lambda x: x[:10])
+        df.loc[:, 'season'] = df['date_from'].apply(lambda x: self.map_date_to_season(x))
         return df
 
     def map_length_of_stay_to_nights_buckets(self, df):
