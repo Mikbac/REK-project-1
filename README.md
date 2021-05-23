@@ -8,6 +8,8 @@ Final solution uses:
 * One-hot encoding for items and users
 * Updated filter ```filter_out_long_stays``` to ```<= 14```
 
+HTML versions of jupyter notebook are in ```html``` catalog.
+
 ## Installing
 Linux or Mac (in project catalog):
 ```
