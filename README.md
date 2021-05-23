@@ -1,7 +1,13 @@
 # REK - Project 1
 
+## Table of contents
+* [Project description](#project-description)
+* [Installing](#installing)
+* [Requirements](#requirements)
+* [Scores](#scores)
+
 ## Project description
-Recommender for the hotel reservation.
+Recommender for the hotel reservation. The goal was to achieve the best HR@10 in the final evaluation.
 
 Final solution uses:
 * SVRCBUIRecommender
